@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Vue JS  🌱 I’m currently learning Vue + Nuxt JS 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+🔭 I’m currently working on [aralikmag](https://www.aralikmag.com)
+🌱 I’m currently using Vue.js , Nuxt js , Mongo DB , Strapi
+⚡ I'm using GNU/Linux distros (Linux Mint)
+🤙 My superpeer [link](https://superpeer.com/oguzhankalelioglu)
 - 📫 How to reach me: oguzhankalelioglu@pm.me
 
