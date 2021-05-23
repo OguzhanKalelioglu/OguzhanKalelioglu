@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on [Eker Süt Ürünleri](https://www.eker.com)
-- 🌱 I’m currently using Vue.js , Nuxt js , Mongo DB , Strapi
+- 🌱 I’m currently using Vue.js, Nuxt js, Mongo DB, Strapi
 - ⚡ I'm using GNU/Linux distros (Ubuntu)
 - 🤙 My superpeer [link](https://superpeer.com/oguzhankalelioglu)
 - 📫 How to reach me: oguzhankalelioglu@pm.me
