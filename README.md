@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Eker Süt Ürünleri<br>🌱 I’m currently using Vue.js, Nuxt js, Mongo DB, Strapi<br>⚡ I'm using GNU/Linux distros (Ubuntu)<br>🤙 My superpeer link<br>📫 How to reach me: oguzhankalelioglu@pm.me
+🔭 I’m currently working on Eker Süt Ürünleri<br>🌱 I’m currently using Vue.js, Nuxt js, Mongo DB, Strapi<br>⚡ I'm using GNU/Linux distros (Ubuntu)<br>📫 How to reach me: oguzhankalelioglu@pm.me
 
 
 ## 🌐 Socials:
