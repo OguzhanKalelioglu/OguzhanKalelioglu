@@ -1,8 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Eker Süt Ürünleri<br>🌱 I’m currently using Python, LLM, Oracle and PostreSQL DB, OpenAI API and SDK<br>⚡ I'm using GNU/Linux distros (Ubuntu)<br>📫 How to reach me: oguzhankalelioglu@pm.me<br>
-
 Context Engineering is Future 💫
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oguzhan.kalelioglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/oguzhankalelioglu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OguzKalelioglu) 
